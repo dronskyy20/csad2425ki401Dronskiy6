@@ -1,0 +1,24 @@
+C:\Users\HP\source\repos\RPS SW-HW game\RPS SW-HW game\bin\Debug\net8.0\RPS SW-HW game.exe
+C:\Users\HP\source\repos\RPS SW-HW game\RPS SW-HW game\bin\Debug\net8.0\RPS SW-HW game.deps.json
+C:\Users\HP\source\repos\RPS SW-HW game\RPS SW-HW game\bin\Debug\net8.0\RPS SW-HW game.runtimeconfig.json
+C:\Users\HP\source\repos\RPS SW-HW game\RPS SW-HW game\bin\Debug\net8.0\RPS SW-HW game.dll
+C:\Users\HP\source\repos\RPS SW-HW game\RPS SW-HW game\bin\Debug\net8.0\RPS SW-HW game.pdb
+C:\Users\HP\source\repos\RPS SW-HW game\RPS SW-HW game\bin\Debug\net8.0\System.IO.Ports.dll
+C:\Users\HP\source\repos\RPS SW-HW game\RPS SW-HW game\bin\Debug\net8.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\HP\source\repos\RPS SW-HW game\RPS SW-HW game\bin\Debug\net8.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\HP\source\repos\RPS SW-HW game\RPS SW-HW game\bin\Debug\net8.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\HP\source\repos\RPS SW-HW game\RPS SW-HW game\bin\Debug\net8.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\HP\source\repos\RPS SW-HW game\RPS SW-HW game\bin\Debug\net8.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\HP\source\repos\RPS SW-HW game\RPS SW-HW game\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\HP\source\repos\RPS SW-HW game\RPS SW-HW game\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\Users\HP\source\repos\RPS SW-HW game\RPS SW-HW game\obj\Debug\net8.0\RPS SW-HW game.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\RPS SW-HW game\RPS SW-HW game\obj\Debug\net8.0\RPS SW-HW game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\RPS SW-HW game\RPS SW-HW game\obj\Debug\net8.0\RPS SW-HW game.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\RPS SW-HW game\RPS SW-HW game\obj\Debug\net8.0\RPS SW-HW game.AssemblyInfo.cs
+C:\Users\HP\source\repos\RPS SW-HW game\RPS SW-HW game\obj\Debug\net8.0\RPS SW-HW game.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\RPS SW-HW game\RPS SW-HW game\obj\Debug\net8.0\RPS SW-HW game.csproj.CopyComplete
+C:\Users\HP\source\repos\RPS SW-HW game\RPS SW-HW game\obj\Debug\net8.0\RPS SW-HW game.dll
+C:\Users\HP\source\repos\RPS SW-HW game\RPS SW-HW game\obj\Debug\net8.0\refint\RPS SW-HW game.dll
+C:\Users\HP\source\repos\RPS SW-HW game\RPS SW-HW game\obj\Debug\net8.0\RPS SW-HW game.pdb
+C:\Users\HP\source\repos\RPS SW-HW game\RPS SW-HW game\obj\Debug\net8.0\RPS SW-HW game.genruntimeconfig.cache
+C:\Users\HP\source\repos\RPS SW-HW game\RPS SW-HW game\obj\Debug\net8.0\ref\RPS SW-HW game.dll
